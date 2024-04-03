@@ -2,18 +2,18 @@
 
 ### Welcome to my corner of the GitHub universe.
 
-🛠 I'm currently working on: `[Tagup]`(https://github.com/tagup-lang/tagup), aiming to create a fast and extensive templating engine.
+🛠 I'm currently working on: [Tagup](https://github.com/tagup-lang/tagup), aiming to create a fast and extensive templating engine.
 
-## Toolbox 🧰
+### Toolbox 🧰
 
 - **Languages**: TypeScript, Rust, Kotlin, C# and Dart.
 - **Frameworks**: Vue, Svelte, Flutter and more.
 - **Tools**: Docker and Git.
 
-## Dive into My World 🌎
+### Dive into My World 🌎
 
 <!-- PROJECTS:START -->
-- [Tagup](Project URL)
+- [Tagup](https://github.com/tagup-lang/tagup)
 <!-- PROJECTS:END -->
 
 ---
