@@ -19,4 +19,4 @@
 
 ---
 
-Feel free to fork or star my repositories if you find something that interests you. Let's innovate together!
+Feel free to fork or star my repositories if you find something that interests you. Let's get innovative!
