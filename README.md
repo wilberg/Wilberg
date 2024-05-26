@@ -2,7 +2,9 @@
 
 ### Welcome to my corner of the GitHub universe.
 
-🛠 I'm currently working on: [Tagup](https://github.com/tagup-lang/tagup), aiming to create a fast and extensive templating engine.
+🛠 I'm currently working on:
+* [OpenAPI Manager](https://github.com/openapi-sh/manager) - the perfect tool for managing your API.
+* [Tagup](https://github.com/tagup-lang/tagup), aiming to create a fast and extensive templating engine.
 
 ### Toolbox 🧰
 
@@ -14,7 +16,7 @@
 
 <!-- PROJECTS:START -->
 - [Tagup](https://github.com/tagup-lang/tagup)
-- [OpenAPI.sh](https://github.com/openapi-sh/manager)
+- [OpenAPI Manager](https://github.com/openapi-sh/manager)
 <!-- PROJECTS:END -->
 
 ---
