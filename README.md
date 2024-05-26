@@ -8,7 +8,7 @@
 
 ### Toolbox 🧰
 
-- **Languages**: TypeScript, Rust, Kotlin, C# and Dart.
+- **Languages**: Rust, TypeScript, Kotlin, C# and Dart.
 - **Frameworks**: Vue, Svelte, Flutter and more.
 - **Tools**: Docker and Git.
 
