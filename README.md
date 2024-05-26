@@ -4,7 +4,7 @@
 
 🛠 I'm currently working on:
 * [OpenAPI Manager](https://github.com/openapi-sh/manager) - the perfect tool for managing your API.
-* [Tagup](https://github.com/tagup-lang/tagup), aiming to create a fast and extensive templating engine.
+* [Tagup](https://github.com/tagup-lang/tagup) - a fast and extensive templating engine.
 
 ### Toolbox 🧰
 
