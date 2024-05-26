@@ -14,6 +14,7 @@
 
 <!-- PROJECTS:START -->
 - [Tagup](https://github.com/tagup-lang/tagup)
+- [OpenAPI.sh](https://github.com/openapi-sh/manager)
 <!-- PROJECTS:END -->
 
 ---
