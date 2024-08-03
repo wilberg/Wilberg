@@ -1,8 +1,6 @@
-# Hello, World! 👋
+# Hey 👋
 
-### Welcome to my corner of the GitHub universe.
-
-🛠 I'm currently working on:
+### I'm currently working on 🛠
 * [OpenAPI Manager](https://github.com/openapi-sh/manager) - the perfect tool for managing your API.
 * [Shika](https://github.com/shika-rs/shika) - a lightweight, tokio based web framework for rust.
 * [Tagup](https://github.com/tagup-lang/tagup) - a fast and extensive templating engine.
