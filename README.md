@@ -11,7 +11,7 @@
 - **Frameworks**: Vue, Svelte, Flutter and more.
 - **Tools**: Docker and Git.
 
-### Dive into My World 🌎
+Projects 🌎
 
 <!-- PROJECTS:START -->
 - [OpenAPI Manager](https://github.com/openapi-sh/manager)
