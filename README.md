@@ -11,14 +11,6 @@
 - **Frameworks**: Vue, Svelte, Flutter and more.
 - **Tools**: Docker and Git.
 
-Projects 🌎
-
-<!-- PROJECTS:START -->
-- [OpenAPI Manager](https://github.com/openapi-sh/manager)
-- [Shika](https://github.com/shika-sh/shika)
-- [Tagup](https://github.com/tagup-lang/tagup)
-<!-- PROJECTS:END -->
-
 ---
 
 Feel free to fork or star my repositories if you find something that interests you.
