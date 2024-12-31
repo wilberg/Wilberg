@@ -1,16 +1,1 @@
-# Hey 👋
-
-### I'm currently working on 🛠
-* [OpenAPI Manager](https://github.com/openapi-sh/manager) - the perfect tool for managing your API.
-* [Shika](https://github.com/shika-sh/shika) - a tool for generating anything based on a database schema.
-* [Tagup](https://github.com/tagup-lang/tagup) - a fast and extensive templating engine.
-
-### Toolbox 🧰
-
-- **Languages**: Rust, TypeScript, Kotlin, C# and Dart.
-- **Frameworks**: Vue, Svelte, Flutter and more.
-- **Tools**: Docker and Git.
-
----
-
-Feel free to fork or star my repositories if you find something that interests you.
+![{45E0E7C9-F92D-4C89-9BBF-58260DECB526}](https://github.com/user-attachments/assets/083be2b7-f50f-44c8-bfea-6d67a4b9803d)
